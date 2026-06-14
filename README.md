@@ -1,162 +1,166 @@
-<h1 align="center">Hi 👋, I'm Aditya Singh</h1>
+# 🌐 Aditya Singh — Portfolio
 
-<h3 align="center">BSCA Student | Web Developer | Frontend Enthusiast</h3>
+Personal portfolio website built from scratch using pure HTML, CSS, and JavaScript.
 
-<p align="center">
-  <a href="https://github.com/Aadityasingh08">
-    <img src="https://img.shields.io/github/followers/Aadityasingh08?label=Followers&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/Aadityasingh08">
-    <img src="https://img.shields.io/github/stars/Aadityasingh08?affiliations=OWNER&style=for-the-badge" />
-  </a>
-</p>
+Designed to showcase my projects, skills, and journey as a developer while maintaining a clean, modern, and responsive user experience.
 
----
+## 🔗 Live Demo
 
-# 👨‍💻 About Me
+🌍 Portfolio Website
 
-🎓 BSCA Student at DSEU Ambedkar Campus
+https://pportfolio-4vu6j2d3i-adi0608.vercel.app/
 
-💻 Passionate Web Developer
+## ✨ Features
 
-🚀 Building Modern & Responsive Websites
+* Modern and responsive design
+* Smooth scrolling experience
+* Interactive project showcase
+* Skills and technologies section
+* Mobile-friendly layout
+* Clean UI/UX design
+* Fast loading performance
+* Live project deployment links
 
-🌱 Currently Learning Full Stack Development
+## 🛠️ Built With
 
-📌 Interested in Software Development, UI/UX and AI Projects
+### Frontend
 
----
+* HTML5
+* CSS3
+* JavaScript (ES6)
 
-# 🌐 Live Portfolio
+### Tools & Platforms
 
-### 🔗 Portfolio Website
+* Git
+* GitHub
+* VS Code
+* Firebase
+* Figma
+* Canva
 
-👉 https://pportfolio-4vu6j2d3i-adi0608.vercel.app/
+### Languages
 
----
+* C
+* C++
+* Python
+* JavaScript
 
-# 🛠️ Tech Stack
+### Deployment
 
-## Languages
+* Vercel
 
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js" />
-</p>
+## 🚀 Projects Featured
 
-## Frontend
+### 🧠 Nexora AI — AI Study Platform
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
+An AI-powered study assistant designed for students with smart productivity tools and learning features.
 
-## Tools & Technologies
+#### Features
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,figma" />
-</p>
+* AI Chat Assistant
+* Notes Management
+* Study Planner
+* Smart Productivity Tools
+* Modern Responsive UI
 
----
+🔗 Live Demo
 
-# ✨ Features
-
-✅ Responsive Design
-
-✅ Modern UI
-
-✅ Smooth Animations
-
-✅ Project Showcase
-
-✅ Skills Section
-
-✅ Contact Section
-
-✅ Mobile Friendly
-
-✅ Fast Performance
-
----
-
-# 🚀 Projects
-
-## 🧠 Nexora AI
-
-AI-powered student assistant platform featuring:
-
-- AI Chat
-- Notes Management
-- Study Tools
-- Productivity Features
-
-🔗 Live Demo:
 https://nexora-ai-beta-six.vercel.app/
 
 ---
 
-## 👗 Grace Era
+### 👗 Grace Era — Fashion & Lifestyle Platform
 
-Modern fashion and lifestyle website with elegant UI.
+A modern fashion website focused on elegant design and user experience.
 
-🔗 Live Demo:
+#### Features
+
+* Stylish UI Design
+* Responsive Layout
+* Product Showcase
+* Smooth User Experience
+
+🔗 Live Demo
+
 https://grace-era.vercel.app/
 
 ---
 
-## 🌐 Portfolio Website
+### 🌐 Personal Portfolio Website
 
-Personal portfolio showcasing projects, skills and achievements.
+A personal portfolio built to showcase my skills, projects, and achievements.
 
-🔗 Live Demo:
+#### Features
+
+* Responsive Design
+* Interactive Sections
+* Project Gallery
+* Contact Information
+
+🔗 Live Demo
+
 https://pportfolio-4vu6j2d3i-adi0608.vercel.app/
 
----
+## 📦 Run Locally
 
-# 📊 GitHub Stats
+```bash
+git clone https://github.com/Aadityasingh08/portfolio.git
 
-<p align="center">
+cd portfolio
+```
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aadityasingh08&show_icons=true&theme=tokyonight" />
+Open `index.html` in your browser.
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadityasingh08&layout=compact&theme=tokyonight" />
+No build tools or installation required.
 
-</p>
+## 📊 Skills
 
----
+### Frontend Development
 
-# 🔥 GitHub Streak
+* HTML5
+* CSS3
+* JavaScript
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aadityasingh08&theme=tokyonight" />
-</p>
+### Programming Languages
 
----
+* C
+* C++
+* Python
+* JavaScript
 
-# 📫 Connect With Me
+### Tools
 
-### GitHub
+* Git
+* GitHub
+* Firebase
+* VS Code
+* Figma
+* Canva
 
+## 🎯 Goals
+
+* Become a Full Stack Developer
+* Build impactful real-world applications
+* Contribute to open-source projects
+* Gain industry experience through internships
+* Continuously improve problem-solving skills
+
+## 📬 Contact
+
+📧 Email: [your-email@example.com](mailto:your-email@example.com)
+
+🐙 GitHub:
 https://github.com/Aadityasingh08
 
-### Portfolio
-
+🌐 Portfolio:
 https://pportfolio-4vu6j2d3i-adi0608.vercel.app/
 
----
+## 💚 Acknowledgements
 
-# 🎯 Career Goals
+Thanks for visiting my portfolio.
 
-- Become a Full Stack Developer
-- Contribute to Open Source
-- Build Real-World Projects
-- Secure Software Development Internship
-- Continuously Learn New Technologies
+If you like this project, consider giving it a ⭐ on GitHub.
 
 ---
 
-<div align="center">
-
-### ⭐ If you like this project, don't forget to star the repository!
-
-Made with ❤️ by Aditya Singh
-
-</div>
+Made with ❤️ by Aditya Singh (UV) · Delhi, India
