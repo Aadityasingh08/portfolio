@@ -1,67 +1,75 @@
-# 🌐 Aditya Singh — Portfolio
+<div align="center">
 
-Personal portfolio website built from scratch using pure HTML, CSS, and JavaScript.
+# 🚀 Aditya Singh
 
-Designed to showcase my projects, skills, and journey as a developer while maintaining a clean, modern, and responsive user experience.
+### Full-Stack Developer • BSCA Student • Building Real-World Products
 
-## 🔗 Live Demo
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=64FFDA&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+%26+Web+Application+Builder;Open+Source+Learner;Building+Products+That+Matter" />
 
-🌍 Portfolio Website
+<br>
 
-https://pportfolio-4vu6j2d3i-adi0608.vercel.app/
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Live-64FFDA?style=for-the-badge)](https://pportfolio-4vu6j2d3i-adi0608.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya_Singh-0077B5?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/aditya-singh-392b9934b/)
+[![GitHub](https://img.shields.io/badge/GitHub-Aadityasingh08-181717?style=for-the-badge\&logo=github)](https://github.com/Aadityasingh08)
 
-## ✨ Features
+</div>
 
-* Modern and responsive design
-* Smooth scrolling experience
-* Interactive project showcase
-* Skills and technologies section
-* Mobile-friendly layout
-* Clean UI/UX design
-* Fast loading performance
-* Live project deployment links
+---
 
-## 🛠️ Built With
+# 👨‍💻 About Me
 
-### Frontend
+🎓 BSCA Student at **DSEU Ambedkar Campus**
 
-* HTML5
-* CSS3
-* JavaScript (ES6)
+💡 Passionate about **Web Development, AI Applications & Problem Solving**
 
-### Tools & Platforms
+🚀 Building modern, scalable and user-friendly web applications
 
-* Git
-* GitHub
-* VS Code
-* Firebase
-* Figma
-* Canva
+🌱 Currently exploring **Full Stack Development & AI Integration**
+
+🏆 CGPA: **8.85**
+
+---
+
+# 🛠️ Tech Stack
 
 ### Languages
 
-* C
-* C++
-* Python
-* JavaScript
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
-### Deployment
+### Frontend
 
-* Vercel
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
-## 🚀 Projects Featured
+### Tools
 
-### 🧠 Nexora AI — AI Study Platform
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma)
 
-An AI-powered study assistant designed for students with smart productivity tools and learning features.
+---
 
-#### Features
+# 🚀 Featured Projects
 
-* AI Chat Assistant
-* Notes Management
-* Study Planner
-* Smart Productivity Tools
-* Modern Responsive UI
+## 🧠 Nexora AI
+
+AI-powered student productivity platform designed to help students learn smarter.
+
+### Features
+
+✨ AI Chat Assistant
+
+✨ Smart Notes
+
+✨ Study Tools
+
+✨ Productivity Dashboard
 
 🔗 Live Demo
 
@@ -69,16 +77,19 @@ https://nexora-ai-beta-six.vercel.app/
 
 ---
 
-### 👗 Grace Era — Fashion & Lifestyle Platform
+## 👗 Grace Era
 
-A modern fashion website focused on elegant design and user experience.
+Modern fashion and lifestyle platform with elegant UI and responsive design.
 
-#### Features
+### Features
 
-* Stylish UI Design
-* Responsive Layout
-* Product Showcase
-* Smooth User Experience
+✨ Clean UI
+
+✨ Responsive Layout
+
+✨ Product Showcase
+
+✨ Modern User Experience
 
 🔗 Live Demo
 
@@ -86,81 +97,62 @@ https://grace-era.vercel.app/
 
 ---
 
-### 🌐 Personal Portfolio Website
+## 🌐 Portfolio Website
 
-A personal portfolio built to showcase my skills, projects, and achievements.
-
-#### Features
-
-* Responsive Design
-* Interactive Sections
-* Project Gallery
-* Contact Information
+My personal portfolio showcasing projects, skills and achievements.
 
 🔗 Live Demo
 
 https://pportfolio-4vu6j2d3i-adi0608.vercel.app/
 
-## 📦 Run Locally
+---
 
-```bash
-git clone https://github.com/Aadityasingh08/portfolio.git
+# 📊 GitHub Stats
 
-cd portfolio
-```
-
-Open `index.html` in your browser.
-
-No build tools or installation required.
-
-## 📊 Skills
-
-### Frontend Development
-
-* HTML5
-* CSS3
-* JavaScript
-
-### Programming Languages
-
-* C
-* C++
-* Python
-* JavaScript
-
-### Tools
-
-* Git
-* GitHub
-* Firebase
-* VS Code
-* Figma
-* Canva
-
-## 🎯 Goals
-
-* Become a Full Stack Developer
-* Build impactful real-world applications
-* Contribute to open-source projects
-* Gain industry experience through internships
-* Continuously improve problem-solving skills
-
-## 📬 Contact
-
-📧 Email: [your-email@example.com](mailto:your-email@example.com)
-
-🐙 GitHub:
-https://github.com/Aadityasingh08
-
-🌐 Portfolio:
-https://pportfolio-4vu6j2d3i-adi0608.vercel.app/
-
-## 💚 Acknowledgements
-
-Thanks for visiting my portfolio.
-
-If you like this project, consider giving it a ⭐ on GitHub.
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Aadityasingh08&show_icons=true&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadityasingh08&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-Made with ❤️ by Aditya Singh (UV) · Delhi, India
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aadityasingh08&theme=tokyonight" />
+</p>
+
+---
+
+# 🏆 Achievements
+
+🥇 Built Multiple Live Projects
+
+🚀 Deployed Applications on Vercel
+
+💻 Strong Frontend Development Skills
+
+📈 Continuous Learning & Improvement
+
+---
+
+# 📫 Connect With Me
+
+🌐 Portfolio
+https://pportfolio-4vu6j2d3i-adi0608.vercel.app/
+
+💼 LinkedIn
+https://www.linkedin.com/in/aditya-singh-392b9934b/
+
+🐙 GitHub
+https://github.com/Aadityasingh08
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my portfolio!
+
+### Made with ❤️ by Aditya Singh
+
+</div>
